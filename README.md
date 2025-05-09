@@ -1,4 +1,4 @@
-##제출결과
+## Submit Result
 
 ### 1.Screenshot
 -**Arduino IDE Setup**
